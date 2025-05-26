@@ -1,1 +1,21 @@
+div{
+  border: 10px solid black;
+  padding: 110px;
+  margin: 10px;
+  border-radius:50px;
+  background-color: white;
+}
+img{
+  border-radius: 50px;
+}
+h1{
+  font-family: Segoe UI;
+  color: white;
+}
+h3{
+  font-family: Tahoma;
+}
+body{
+  background-color: gray;
+}
 
